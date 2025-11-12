@@ -1,6 +1,6 @@
 ## 🌦️ Live Demo
 
-🔗 [Click here to view the live weather app](https://imyashpatil.github.io/pizza-menu/)
+🔗 [Click here to view the live pizza menu card](https://imyashpatil.github.io/pizza-menu/)
 
 
 # Getting Started with Create React App
